@@ -1,0 +1,2 @@
+# sprawdzanie
+Sprawdzanie plugin (polska)
